@@ -1,0 +1,50 @@
+       body 
+         {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:15px;
+         }
+
+         table
+         {
+            border-collapse: collapse;
+         }
+
+         td, th
+         {
+            border: solid 1pt black;
+            padding: 10pt;
+            text-align: center;
+         }
+        
+
+         label 
+         {
+            font-weight:bold;
+            font-size:15px;
+         }
+
+         #divOneSearch
+         {
+             width:650px; 
+         }
+
+         #div1
+         {
+            width:350px; 
+            border: solid 1px black
+
+         }
+
+          #div2
+         {
+            background-color:black; 
+            color:white; 
+            padding:5px
+         }
+
+         #div3
+        {
+           margin:30px
+        }
+
+      
